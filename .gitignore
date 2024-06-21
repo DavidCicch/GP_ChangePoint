@@ -1,0 +1,10 @@
+*.png
+Convergence/*.npy
+Fixing_Latent/*.npy
+HDPHMM/*.npy
+Classes/*.npy
+bnpy/
+Testing_latent/
+Results/Toy_dataset_RBF_3/IHMM/ihmm_trained_new_5000_0.npy
+Results/Toy_dataset_RBF_3/IHMM/ihmm_trained_new_5000_1.npy
+Results/Toy_dataset_RBF_3/IHMM/ihmm_trained_new_5000_2.npy
